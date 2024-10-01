@@ -19,12 +19,12 @@ html,body{
 .center{
     height: 80%;
     width: 80%;
-    background-color: red;
+    /* background-color: red; */
     position: relative;
 }
 .imagecontener{
     height: 100%;
-    width: 100%;
+    width: 0%;
     position: absolute;
     overflow: hidden;
 }
